@@ -1,5 +1,6 @@
 import { FLIREEvent } from "@/types/flire";
-import {EventsFliresCard} from "./EventsFliresCard"
+import EventsFliresCard from "./EventsFliresCard";
+
 
 type Props = {
     events: FLIREEvent[];

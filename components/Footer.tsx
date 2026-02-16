@@ -38,7 +38,7 @@ export default function Footer() {
             Desenvolvedores
           </h2>
           <p className="text-sm">
-            Desenvolvido por Jullyo César, Miguel, Marcos e Guilherme
+            Desenvolvido por Jullyo Lopes, Miguel Bittencourt, Marcos Chaves e Matheus Lima
           </p>
           <p className="text-sm mt-2 text-blue-400 hover:underline cursor-pointer">
             GitHub
